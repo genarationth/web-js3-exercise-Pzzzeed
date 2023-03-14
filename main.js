@@ -38,7 +38,7 @@ const greetingFunction = (name1, name2, name3) =>{
 
     console.log(getAge(name1.birth));
 
-    //ex3
+    //ex2.3
 
     const greetingAndAge = (name1, name2, name3) => {
         console.log(`Welcome ${name1.name}, you are ${getAge(name1.birth)}. Welcome ${name2.name}, you are ${getAge(name2.birth)}. Welcome ${name3.name}, you are ${getAge(name3.birth)}.`);
